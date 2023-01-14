@@ -1,1 +1,4 @@
-<embed src="https://drive.google.com/file/d/1ryulPEtqQdE3NIRCRF0nL8wR2lBsrNaL/view?usp=sharing" type="application/pdf" width="100%" height="600px" />
+# JPMorgan-Chase-Virtual-Internship
+
+## My Certificate of Completion
+![New](./Certificate_of_Completion_Image.png)
